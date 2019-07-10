@@ -1,3 +1,3 @@
 # KarmaServlet
-Karma Shop Servlet
-Using JSP Servlet
+Karma Shop Website
+Using Java JSP Servlet
